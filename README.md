@@ -56,5 +56,5 @@ El análisis está estructurado en un notebook de Jupyter (videojuegos EDA.ipynb
 - Poder de las Franquicias: Las marcas consolidadas como Super Mario, Call of Duty y Pokémon dominan las ventas a largo plazo, demostrando la importancia de la lealtad del consumidor.
 - Ecosistema de Nintendo: Nintendo lidera como publisher y fabricante de hardware, creando un ecosistema cerrado y muy rentable con consolas como la Wii y la DS.
 - Preferencias Regionales: Se observan claras diferencias culturales: los juegos de Rol (RPG) son dominantes en Japón, mientras que en Norteamérica y Europa prefieren Acción, Deportes y Disparos (Shooter).
-- La "Era Dorada" (2008-2009): El pico de ventas coincide con el auge de la PS2, Wii y DS. Se encontró una correlación sorprendentemente débil entre las puntuaciones de la crítica y el éxito comercial.
+- La "Era Dorada" (2008-2009): El pico de ventas coincide con el auge de la PS2, Wii y DS.
 - Estrategias de Desarrollador: Se evidencia cómo Rockstar North basa su éxito en una sola mega-franquicia (Grand Theft Auto), mientras que Treyarch logra ventas similares a través de contribuciones constantes a una franquicia anual (Call of Duty).
